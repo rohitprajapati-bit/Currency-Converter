@@ -4,10 +4,10 @@
 
 ## Features:
 
-# Real-time currency conversion.
-# User-friendly interface with a clean and responsive design.
-# Supports multiple currencies.
-# Lightweight and easy to integrate into any web project.
+ Real-time currency conversion.
+ User-friendly interface with a clean and responsive design.
+ Supports multiple currencies.
+ Lightweight and easy to integrate into any web project.
 
 # How to Use:
 
